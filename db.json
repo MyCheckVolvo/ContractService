@@ -2,7 +2,7 @@
   "EA300QQ": 
     {
       "hasContract": true,
-      "contactList": ["S&D Secure maxi", "60mois"]
+      "contractList": ["S&D Secure maxi", "60mois"]
     },
   "EA568RP":
     {
@@ -11,7 +11,7 @@
   "EE854CW":
     {
       "hasContract": true,
-      "contactList": ["500 000km's"]
+      "contractList": ["500 000km's"]
     },
   "FJ474AK":
     {
